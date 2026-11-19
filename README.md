@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](QuantumElectrodynamics-Lab%20cover.png)
 
 # QuantumElectrodynamics-Lab ⚛️✨
 
